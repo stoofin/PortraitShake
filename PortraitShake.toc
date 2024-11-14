@@ -1,0 +1,6 @@
+## Interface: 7200
+## Title: Portrait Shake
+## Notes: Shake a portrait when damage is taken
+## Version: 1.0.0
+
+PortraitShake.xml
